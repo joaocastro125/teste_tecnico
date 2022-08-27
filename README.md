@@ -1,13 +1,21 @@
 # teste_tecnico
 
 1- Três homens: **Peter**, **Steve** e **Bruce**, são casados com: **Natasha**, **Diana** e **Gamora**, mas não sabemos quem é casado com quem. Eles são: **Engenheiro**, **Advogado** e **Médico**, mas também não sabemos quem faz o quê. Tente descobrir o nome de cada esposa e a profissão de cada um com base nas dicas abaixo:
-peter é casado com natasha
-steve é casado com diana 
-bruce é casado com Gamora 
+medico é casado com Gamora
 
-peter é engenheiro 
-steve é advogado 
-bruce é medico
+Bruce é advogado é casado com natasha
+
+Bruce não é casado com diana 
+
+Peter é engenheiro 
+
+peter casado com diana
+
+steve é medico é casado com Gamora
+
+
+
+
 
 2 - Você terá que realizar uma viagem internacional com duração de 20 dias e o avião parte de um
 aeroporto que está localizado a mais de 100km da sua cidade. Quais são as providências que você tomaria para esta viagem?
@@ -23,7 +31,7 @@ b) O Desenvolvedor que desenvolveu o código e o QA buscando um teste mais refin
 c) Qualquer pessoa do time de desenvolvimento.
 d) Qualquer pessoa que esteja disponível na empresa e que tenha conhecimento da ferramenta para o qual o código foi desenvolvido.
 
-responsta : d 
+responsta : d -> todos que tem conhecimento em desenvolmento pode ter acesso ao sistema , ter um documentação para auxilar melhor 
 
 4 - Analise o código a seguir :
 class Equation {
