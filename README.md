@@ -84,3 +84,10 @@ class Equation {
 }
 Há algo que precise ser modificado? Por quê? 
 não a nada para ser alterado , esta usando equação do segundo grau.
+
+5- Desenvolva uma aplicação para manipulação de produtos, que tenha como principais funcionalidades o CRUD básico e um carrinho para armazenar os produtos que o cliente esteja interessado em comprar. Você poderá escolher as tecnologias utilizadas e o layout/design da aplicação.
+
+Requisitos:
+
+- Deverá ser possível realizar as operações básicas (CRUD- Criar, Alterar, Deletar e Ler) com os produtos. Os dados do produto devem ser persistidos em um banco de dados de sua escolha.
+- Deverá haver um carrinho que guarda os produtos que o cliente deseja comprar e calcula o valor total da compra no final.
