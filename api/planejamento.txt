@@ -1,0 +1,15 @@
+No projeto foi feito uma crud basico criação de produtos 
+
+- create
+- red
+- update
+- delete
+
+tecnologias utilizada :
+- typescript
+- express 
+- orm sequelize 
+- padrão rest e mvc 
+
+- como baixar o projeto 
+npm install 
